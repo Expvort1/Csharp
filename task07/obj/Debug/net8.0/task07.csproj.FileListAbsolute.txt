@@ -1,0 +1,14 @@
+C:\Users\Semen\Desktop\С#\task07\bin\Debug\net8.0\task07.exe
+C:\Users\Semen\Desktop\С#\task07\bin\Debug\net8.0\task07.deps.json
+C:\Users\Semen\Desktop\С#\task07\bin\Debug\net8.0\task07.runtimeconfig.json
+C:\Users\Semen\Desktop\С#\task07\bin\Debug\net8.0\task07.dll
+C:\Users\Semen\Desktop\С#\task07\bin\Debug\net8.0\task07.pdb
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\task07.AssemblyInfoInputs.cache
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\task07.AssemblyInfo.cs
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\task07.csproj.CoreCompileInputs.cache
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\task07.dll
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\refint\task07.dll
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\task07.pdb
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\task07.genruntimeconfig.cache
+C:\Users\Semen\Desktop\С#\task07\obj\Debug\net8.0\ref\task07.dll
