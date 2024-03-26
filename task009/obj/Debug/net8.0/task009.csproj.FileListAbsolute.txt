@@ -1,0 +1,15 @@
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\task009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\task009.AssemblyInfoInputs.cache
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\task009.AssemblyInfo.cs
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\task009.csproj.CoreCompileInputs.cache
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\task009.sourcelink.json
+C:\Users\Semen\Desktop\С#\task009\bin\Debug\net8.0\task009.exe
+C:\Users\Semen\Desktop\С#\task009\bin\Debug\net8.0\task009.deps.json
+C:\Users\Semen\Desktop\С#\task009\bin\Debug\net8.0\task009.runtimeconfig.json
+C:\Users\Semen\Desktop\С#\task009\bin\Debug\net8.0\task009.dll
+C:\Users\Semen\Desktop\С#\task009\bin\Debug\net8.0\task009.pdb
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\task009.dll
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\refint\task009.dll
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\task009.pdb
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\task009.genruntimeconfig.cache
+C:\Users\Semen\Desktop\С#\task009\obj\Debug\net8.0\ref\task009.dll
