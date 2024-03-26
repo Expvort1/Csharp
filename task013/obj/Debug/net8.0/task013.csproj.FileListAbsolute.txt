@@ -1,0 +1,15 @@
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\task013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\task013.AssemblyInfoInputs.cache
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\task013.AssemblyInfo.cs
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\task013.csproj.CoreCompileInputs.cache
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\task013.sourcelink.json
+C:\Users\Semen\Desktop\С#\task013\bin\Debug\net8.0\task013.exe
+C:\Users\Semen\Desktop\С#\task013\bin\Debug\net8.0\task013.deps.json
+C:\Users\Semen\Desktop\С#\task013\bin\Debug\net8.0\task013.runtimeconfig.json
+C:\Users\Semen\Desktop\С#\task013\bin\Debug\net8.0\task013.dll
+C:\Users\Semen\Desktop\С#\task013\bin\Debug\net8.0\task013.pdb
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\task013.dll
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\refint\task013.dll
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\task013.pdb
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\task013.genruntimeconfig.cache
+C:\Users\Semen\Desktop\С#\task013\obj\Debug\net8.0\ref\task013.dll
