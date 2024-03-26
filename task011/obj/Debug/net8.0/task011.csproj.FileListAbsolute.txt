@@ -1,0 +1,15 @@
+C:\Users\Semen\Desktop\С#\task011\bin\Debug\net8.0\task011.exe
+C:\Users\Semen\Desktop\С#\task011\bin\Debug\net8.0\task011.deps.json
+C:\Users\Semen\Desktop\С#\task011\bin\Debug\net8.0\task011.runtimeconfig.json
+C:\Users\Semen\Desktop\С#\task011\bin\Debug\net8.0\task011.dll
+C:\Users\Semen\Desktop\С#\task011\bin\Debug\net8.0\task011.pdb
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\task011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\task011.AssemblyInfoInputs.cache
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\task011.AssemblyInfo.cs
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\task011.csproj.CoreCompileInputs.cache
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\task011.sourcelink.json
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\task011.dll
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\refint\task011.dll
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\task011.pdb
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\task011.genruntimeconfig.cache
+C:\Users\Semen\Desktop\С#\task011\obj\Debug\net8.0\ref\task011.dll
